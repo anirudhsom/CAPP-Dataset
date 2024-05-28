@@ -9,8 +9,15 @@ In addition to the CAPP dataset, we also provide the generated paraphrases for t
 ## Data
 
 
-
 ## Generated Paraphrases
+
+Here, we describe the underlying file structure to query the generated paraphrases for the following models:
+
+1. text-davinci-003
+2. gpt-3.5-turbo-instruct
+3. gpt-3.5-turbo-0613
+4. gpt-3.5-turbo-1106
+5. Vicuna-13b
 
 ***
 
