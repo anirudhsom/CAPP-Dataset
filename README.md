@@ -58,7 +58,7 @@ This work is licensed under a
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-[ACL 2024]: https://2024.aclweb.org/{:target="_blank"}
+[ACL 2024]: (https://2024.aclweb.org/){:target="_blank"}
 [Arxiv Paper]: https://arxiv.org/abs/2310.10707
 [Git Issues]: https://github.com/anirudhsom/CAPP-Dataset/issues
 
