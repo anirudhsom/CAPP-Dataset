@@ -2,9 +2,17 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This repository contains information about the Context Aware Polite Paraphrase (CAPP) dataset - a dialogue-style corpus of rude utterances and corresponding polite paraphrases, with samples accompanied by additional context in the form of prior two turns from the dialogue. The original paper [**Demonstrations Are All You Need: Advancing Offensive Content Paraphrasing using In-Context Learning**][Arxiv Paper] was accepted in [ACL 2024 Findings][ACL 2024].
+This repository contains information about the ***Context Aware Polite Paraphrase (CAPP) dataset*** - a dialogue-style corpus of rude utterances and corresponding polite paraphrases, with samples accompanied by additional context in the form of prior two turns from the dialogue. The original paper [**Demonstrations Are All You Need: Advancing Offensive Content Paraphrasing using In-Context Learning**][Arxiv Paper] was accepted in [ACL 2024 Findings][ACL 2024].
 
-****
+In addition to the CAPP dataset, we also provide the generated paraphrases for the different methods described in the paper. 
+
+## Data
+
+
+
+## Generated Paraphrases
+
+***
 
 ## Citation
 
@@ -22,6 +30,8 @@ This repository contains information about the Context Aware Polite Paraphrase (
 Please report any issues to [Github Issues][Git Issues].
 
 For any questions, please contact: Anirudh Som (anirudh.som@sri.com)
+
+***
 
 ## License
 
