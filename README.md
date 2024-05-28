@@ -8,7 +8,7 @@ This repository contains information about the ***Context Aware Polite Paraphras
 
 ## [Data](https://github.com/anirudhsom/CAPP-Dataset/tree/main/Dataset)
 
-- Within the CAPP dataset, the [training split](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Dataset/train.csv) has 7939 samples and the [test split](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Dataset/test.csv) has 1120 samples. Each sample will always have a rude utterance and a polite paraphrase. About 55% of the training data and 53% of the test data also has prior dialogue turn information to provide additional context.
+- The [training split](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Dataset/train.csv) has 7939 samples and the [test split](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Dataset/test.csv) has 1120 samples. Each sample will always have a rude utterance and a polite paraphrase. About 55% of the training data and 53% of the test data also has prior dialogue turn information to provide additional context.
 
 - The following notebook will help you load and inspect the training and test data splits: [notebook](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Dataset/notebook.ipynb)
 
