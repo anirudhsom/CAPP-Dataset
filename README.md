@@ -1,5 +1,5 @@
 #  :construction: Under Construction :construction:
-# CAPP Dataset: Context Aware Polite Paraphrase Dataset
+# CAPP Dataset: Context-Aware Polite Paraphrase Dataset
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
