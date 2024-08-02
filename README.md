@@ -5,7 +5,7 @@
 
 ## ACL 2024 Presentation
 
-[Video](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Files/video.mp4) | [Slides](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Files/slides.mp4) | [Poster](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Files/poster.mp4)
+[Video](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Files/video.mp4) | [Slides](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Files/slides.pdf) | [Poster](https://github.com/anirudhsom/CAPP-Dataset/blob/main/Files/poster.pdf)
 
 ## Description
 
