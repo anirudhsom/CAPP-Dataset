@@ -21,7 +21,7 @@
   column_name = f"{model}_{instruction_type}_{selection_order}_Demo-Count-{demonstration_count}"
   ```
 
-  - model = Name of the paraphrasing model.
+  - "model": Name of the paraphrasing model.
     
     Options:
     - text-davinci-003
@@ -30,13 +30,13 @@
     - gpt-3.5-turbo-1106
     - Vicuna-13b
       
-  - instruction_type = Whether instruction was included in the prompt or not.
+  - "instruction_type": Whether instruction was included in the prompt or not.
     
     Options:
     - No-Instruction
     - With-Instruction
       
-  - selection_order = How demonstrations were selected and ordered.
+  - "selection_order": How demonstrations were selected and ordered.
     
     Options:
     - MSD (Most Similar examples arranged in Descending order)
@@ -44,7 +44,7 @@
     - LSD (Least Similar examples arranged in Descending order)
     - LSA (Least   Similar examples arranged in Ascending order)
       
-  - demonstration_count = Number of demonstrations used.
+  - "demonstration_count": Number of demonstrations used.
     
     Options:
     - For Vicuna-13b = 1, 2, 4, 6, 8, 10
