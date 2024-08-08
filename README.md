@@ -1,4 +1,3 @@
-#  :construction: Under Construction :construction:
 # CAPP Dataset: Context-Aware Polite Paraphrase Dataset
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -24,7 +23,7 @@ This repository contains information about the ***Context Aware Polite Paraphras
 
 ## [Generated Paraphrases](https://github.com/anirudhsom/CAPP-Dataset/tree/main/Generated_Paraphrases)
 
-Here, we describe the underlying file structure to query the generated paraphrases for the following models:
+We provide the inoffensive paraphrases generated using the below listed models for each dataset explored in the paper.
 
 1. text-davinci-003
 2. gpt-3.5-turbo-instruct
