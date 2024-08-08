@@ -28,13 +28,13 @@
     - gpt-3.5-turbo-instruct
     - gpt-3.5-turbo-0613
     - gpt-3.5-turbo-1106
-    - Vicuna-13b.
+    - Vicuna-13b
       
   - instruction_type = Whether instruction was included in the prompt or not.
     
     Options:
     - No-Instruction
-    - With-Instruction.
+    - With-Instruction
       
   - selection_order = How demonstrations were selected and ordered.
     
